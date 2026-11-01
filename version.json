@@ -1,1 +1,1 @@
-{"versionCode":8,"versionName":"1.7","apkUrl":"https://github.com/ziyinpromax/flash-translate/releases/download/v1.7/FlashTranslate.apk","notes":"Locked-session watchdog + per-session level diagnostics in the log"}
+{"versionCode":9,"versionName":"1.8","apkUrl":"https://github.com/ziyinpromax/flash-translate/releases/download/v1.8/FlashTranslate.apk","notes":"Self-audit fixes for intermittent listening/translation: watchdog error-suppression leak, permission-error restart, speak-resume guard, dropped-final logging, identity translation"}
